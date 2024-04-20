@@ -4,6 +4,7 @@ metadata:
   name: myweb
   labels:
     gitadd : webedit
+    add3: git-test 
 spec:
   replicas: 4
   selector:
