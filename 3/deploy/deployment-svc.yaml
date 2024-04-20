@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: myweb
-        image: taekyung/myweb:v1.0.0
+        image: taekyungoh/myweb:v1.0.0
       terminationGracePeriodSeconds: 0
 ---
 apiVersion: v1
